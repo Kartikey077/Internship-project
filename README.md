@@ -16,5 +16,11 @@ This is a simple quiz web page
 - This is a very basic Expense tracker
 - It will add only how much amount is spend
 - It will add all the amount is spend in total section
+
+4 Password Generator (week 4)
+
+- It ask you for enter a number you have to write it above 8
+- Above 8 is strong password
+- Its had to find it that's why
    
 **Feel free to experiment**
